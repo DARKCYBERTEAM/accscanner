@@ -1,2 +1,2 @@
-# accscanner
+# INI SCRIPT BUAT NYARI CC BUAT CARDING EAK
 Ini deskripsi
