@@ -10,23 +10,23 @@ $white = "\033[0m";
 $date   = date('d-M-Y H:i');
 //system("clear");
 echo $yellow . "
-oooooooooo ooooo ooooo  oooooooo8  
- 888    888 888   888  888         
- 888oooo88  888ooo888   888oooooo  
- 888    888 888   888          888 
-o888ooo888 o888o o888o o88oooo888                                    
+____   ____ _____
+|  _ \ / ___|_   _|
+| | | | |     | |
+| |_| | |___  | |
+|____/ \____| |_|
 ";
 echo $red . "==================================";
-echo $bold . $green . "\nCoder   : ./Mr.Java404
-Team    : BlackHole Security
+echo $bold . $green . "\nCoder   : ./Mr.404_FouNd
+Team    : DARKCYBERTEAM
 Code    : PHP
 Version : 0.1.2.3
-Greet'z : Cvar1984 < > v!3wstr1ng\n";
+Greet'z : Cvar2018 < > v!3wstr1ng\n";
 echo $bold . $green . "DMYH    : $date\n";
 echo $red . "==================================\n";
-echo $bold . $cyan . "Count      : ";
+echo $bold . $cyan . "Menghitung  : ";
 $count = trim(fgets(STDIN,1024));
-echo $bold . $cyan . "Delay      : ";
+echo $bold . $cyan . "Menunda     : ";
 $sleep = trim(fgets(STDIN,1024));
 for($x = 0; $x < $count; $x++){
 $str = file_get_contents("http://namegenerators.org/fake-name-generator-us/");
